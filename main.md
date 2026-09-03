@@ -7,7 +7,7 @@ language: en
 narrator: UK English Female
 -->
 
-# Exil und Haltung – Digital Humanities und Philosophie
+# Effective Altruism
 
 **OLAT-Kurs:** https://lms.uni-kiel.de/url/RepositoryEntry/5837357248
 
@@ -16,7 +16,7 @@ narrator: UK English Female
 * Moritz Riemann (riemann@philsem.uni-kiel.de)
 * Gregor Große-Bölting (ggb@informatik.uni-kiel.de)
 
-**Zeit und Raum:** Di 16:15 - 17:45, LMS8 - R.EG.016
+**Zeit und Raum:** Di 16:15 - 17:45, CAP4 - R. 1304a
 
 **Inhalte und Vorgehen:**
 
