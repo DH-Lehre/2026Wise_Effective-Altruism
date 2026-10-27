@@ -74,13 +74,12 @@ Alle Teilleistungen müssen für eine erfolgreiche Gesamtteilnahme eingereicht u
 Jede der Prüfungsformen beinhaltet die gemeinsame Präsentation in einer Kleingruppe am Ende des Semesters.
 
 * Referate: bitte frühzeitig melden!
-* Podcast (nur für BA7 und BA8)
 * Essay
 * Hausarbeit
 
 ---
 
-Mögliche Referats- und Podcastthemen:
+Mögliche Referatsthemen:
 
 * Libertarismus
 * Eugenik
@@ -101,6 +100,17 @@ Bitte lest zur Vorbereitung auf die Sitzung:
 
 * [MacAskill, William: The Definition of Effective Altruism (2019). In: Effective Altruism. Oxford University Press, p. 10-28.](https://www.williammacaskill.com/s/The_Definition_of_Effective_Altruism.pdf)
 * (optional und zur Vertiefung) [Gabriel, Iason: Effective Altruism and its Critics (2016). In: Journal of Applied Philosophy, Vol. 34, No. 4. Wiley, p. 457-473.](https://doi.org/10.1111/japp.12176)
+
+
+### Think, Pair, Share
+
+Bitte denkt 5 Minuten über folgende Fragen nach:
+
+1. Wie lässt sich mit Macaskill (und Gabriel) die Unterscheidung von EA als ethischer Theorie und politischer Bewegung einordnen?
+2. Wie charakterisieren Macaskill und Gabriel EA darüber hinaus?
+3. Fragen zum Text, Begriffen, Konzepten. Was ist euch unklar?
+
+Unterhaltet euch danach 10 Minuten lang mit der Person neben euch über Fragen und Text. Bringt anschließend eure Zugänge und Fragen in die Plenumsdiskussion ein.
 
 ## Sitzung am 03.11.
 
