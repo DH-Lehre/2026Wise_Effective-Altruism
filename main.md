@@ -129,7 +129,7 @@ Bitte lest zur Vorbereitung auf die Sitzung:
 
 Bitte lest zur Vorbereitung auf die Sitzung: 
 
-* tba
+* [Nguyen, C. Thi: Value Capture (2024). In: Journal of Ethics and Social Philosophy, Vol. 27, No. 3. (PDF steht im OLAT-Materialordner zur Verfügung)](https://doi.org/10.26556/jesp.v27i3.3048)
 
 ## Sitzung am 24.11.
 
