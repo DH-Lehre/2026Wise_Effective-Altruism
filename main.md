@@ -46,7 +46,7 @@ Der Seminarplan ist **vorläufig**.
 | 20.10. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
 | 27.10. | **I. Grundlagen und Selbstverständnis von EA** |  |
 | 03.11. | Klassischer Utilitarismus mit und nach Bentham und Mill |  |
-| 10.11. | Moderner Utilitarismus am Beispiel Peter Singers |  |
+| 10.11. | Moderner Utilitarismus am Beispiel Peter Singers | Sandra |
 | 17.11. | EA und Quantifizierung |  |
 | 24.11. | **2. Kritik** aus der analytischen Philosophie |  |
 | 01.12. | Kritik aus der analytischen Philosophie cont'd |  |
