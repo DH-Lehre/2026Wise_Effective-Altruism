@@ -65,7 +65,10 @@ Der Seminarplan ist **vorläufig**.
 
 **Für Informatiker_innen:**
 
-* tba
+* Protokoll (bitte zeitnah einen Termin ausmachen!) (10%)
+* Peer Review (10%)
+* "Poster"präsentation (20%)
+* schriftl. Ausarbeitung (60%)
 
 Alle Teilleistungen müssen für eine erfolgreiche Gesamtteilnahme eingereicht und bestanden werden. 
 
@@ -86,9 +89,100 @@ Mögliche Referatsthemen:
 * Extropianismus / Singularitarianismus
 * Vertiefung TESCREAL-Komplex
 
-#### Hinweise zu den Prüfungsleistungen
+#### Hinweise zum "Sitzungsprotokoll" (für Informatiker_innen)
 
-Folgen später im Semester... 
+**Aufgabenstellung:** Sprecht mit Gregor eine Sitzung ab, für die ihr ein "Sitzungsprotokoll" anfertigt. Das Protokoll soll die wichtigsten Ergebnisse und Erkenntnisse der Sitzung festhalten (nicht den Verlauf) und dient als Ergänzung bzw. Erweiterung des Kursmaterials, sprich: Die "Protokolle" werden direkt in das Material übernommen und dienen als gemeinsame Ressource für alle zur Nachbereitung des Seminars. Entsprechend sollte das Protokoll so aufbereitet sein, dass ein Nicht-Anwesender Studierender sich anhand der Notizen im Nachhinein ein klares Bild davon machen kann, welche Inhalte in der entsprechenden Woche besprochen wurden. 
+
+Das Protokoll muss bis **spätestens zwei Wochen** nach der Sitzung per E-Mail (ggb@informatik.uni-kiel.de) oder [pull request](https://github.com/DH-Lehre/2026Wise_Effective-Altruism) bei mir eingereicht werden.
+
+Weitere Formalia:
+
+* min. 500 Wörter (etwa eine DIN A4-Seite)
+* Das Dokument ist in Markdown abgefasst (noch besser: es verwendet die [LiaScript-Syntax](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1))
+* Falls externe Quellen oder Literatur verwendet wurden, müssen diese gemäß eines üblichen Zitationsstandards (APA, IEEE, ACM, etc.) angegeben werden (bevorzugt: APA)
+* Falls ChatGPT o. ä. verwendet wurden: Umfang und Prompts angeben 
+
+Für eine ausreichende (oder bessere) Arbeit
+
+* Besitzt der eingereichte Text eine klare Struktur, die durch Markdown kenntlich gemacht wird
+* Wurde eine Rechtschreib- und Grammatikprüfung durchgeführt
+* Werden die wichtigsten Themen, Begriffe, etc. der Woche aufgeführt
+
+Eine gute (oder bessere) Arbeit
+
+* Ist verständlich geschrieben und besitzt einen deutlichen, roten Faden
+* Bezieht die fachliche Expertise Mitstudierender aus der Philosophie mit ein 
+* Nennt und verarbeitet Quellen, die über die Seminarliteratur hinausgehen
+* Integriert sich nahtlos in das existierende LiaScript-Material für die Sitzung
+
+Das LiaScript-Material findet ihr in diesem GitHub-Repository: https://github.com/DH-Lehre/2026Wise_Effective-Altruism
+
+
+#### Hinweise zur Peer Review (für Informatiker_innen)
+
+**Aufgabenstellung:** Euch wird am Tag der Posterpräsentation eine andere Gruppe zugewiesen. Schreibt eine kurze "Kritik" des vorgestellten Posters. Diese Kritik sollte in der Tendenz positiv, wertschätzend und konstruktiv sein, d.h. Möglichkeiten der Verbesserung aufzeigen. Versucht dafür nachvollziehbare Kriterien der Bewertung zu finden. Berücksichtigt sowohl den Vortrag, wie auch das erstellte "Poster". Die Peer Review sollte die Möglichkeit bieten die kritisierten Punkte in der Ausarbeitung zu berücksichtigen.
+
+Das Protokoll ist **bis spätestens zum 28. Februar 2027** per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF einzureichen.
+
+Weitere Formalia:
+
+* 300 Wörter (+/- 20%), etwas weniger als eine DIN A4-Seite. Bitte gebt die Anzahl der Wörter am Ende des Dokuments an.
+* Name, stu-Mailadresse
+* Unterschriebene Eigenständigkeitserklärung
+* Falls externe Quellen oder Literatur verwendet wurden, müssen diese gemäß eines üblichen Zitationsstandards (APA, IEEE, ACM, etc.) angegeben werden
+* Falls ChatGPT o. ä. verwendet wurden: Umfang und Prompts angeben (ich rate von der Verwendung ab, da es sich um eine Reflexion der eigenen Erfahrungen mit dem Tool handeln soll)
+
+Für eine ausreichende (oder bessere) Arbeit
+
+* Besitzt der eingereichte Text eine klare Struktur
+* Wurde eine Rechtschreib- und Grammatikprüfung durchgeführt
+* Der Text wertschätzend und konstruktiv verfasst
+* Ein "problematischer" Aspekt der Posterpräsentation identifziert
+
+Eine gute (oder bessere) Arbeit
+
+* Ist verständlich geschrieben und besitzt einen deutlichen, roten Faden
+* Mehrere verbesserungswürdie Aspekte der Posterpräsentation identiziert
+* Lösungsmöglichkeiten für die Aspekte benannt
+
+#### Hinweise zum "Poster" 
+
+**Aufgabenstellung:** tba
+
+#### Hinweise zur Ausarbeitung (für Informatiker_innen)
+
+**Aufgabenstellung:** tba
+
+Die Ausarbeitung sollte eine Einleitung mit Motivation, eine Darstellung des Hintergrunds und Forschungskontexts, eine Vorstellung und Begründung der Methodik, die Ergebnisse und Diskussion eurer Untersuchung, sowie einen kurzen Abschluss und Ausblick beinhalten. Eure Untersuchung und Ausarbeitung dürfen alle Materialien, die ihr im Laufe des Semesters erarbeitet hat, benutzen. Ihr könnt bspw. eure Zwischen- oder Abschlusspräsentation als Grundlage verwenden. 
+
+Sprecht bis zum **31. Januar 2027** ein Thema mit mir (Gregor) per E-Mail, Mattermost oder in einer Sprechstunde (Termin auf Anfrage) ab.
+
+Die Ausarbeitung muss bis zum **30. März 2027** (Ende des Semesters) per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF eingereicht werden.
+
+Weitere Formalia:
+
+* ca. 1.500 Wörter im einspaltigen [ACM-Template](https://www.acm.org/publications/proceedings-template), bevorzugt in LaTeX ([Overleaf](https://www.rz.uni-kiel.de/de/angebote/software/overleaf/overleaf))
+* Name, stu-Mailadresse
+* Unterschriebene Eigenständigkeitserklärung
+* Externe Quellen sind gemäß der ACM-Zitierweise anzugeben; das Literaturverzeichnis zählt nicht zur Gesamtlänge
+* Falls ChatGPT o. ä. verwendet wurden: Umfang und Prompts angeben (zählt nicht zur Gesamtlänge)
+* Die Arbeit kann auf Deutsch oder Englisch verfasst werden
+
+Für eine ausreichende (oder bessere) Arbeit
+
+* Besitzt der eingereichte Text eine klare Struktur
+* Ist verständlich geschrieben und besitzt einen deutlichen, roten Faden
+* Wurde eine Rechtschreib- und Grammatikprüfung durchgeführt
+* Baut auf den Diskussionen und Ergebnissen des Seminars und/oder der Posterpräsentation auf
+* Reflektiert das eigene Vorgehen und zeigt Vor- und Nachteile auf
+
+Eine gute (oder bessere) Arbeit
+
+* Leistet einen Beitrag, der erkennbar über die Ergebnisse des Seminars und/oder der Posterpräsentation hinausgeht
+* Bezieht Literatur ein, die über das hinausgeht, was im Seminar erwähnt/verwendet wurde
+* Zeigt ein hohes und kritisches Verständnis der verwendeten Methoden
+* Reflektiert den informatischen und philosophischen (natürlich weniger umfangreich) Beitrag für die Digital Humanities
+
 
 ## Sitzung am 20.10.
 
