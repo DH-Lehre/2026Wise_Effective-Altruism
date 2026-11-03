@@ -65,7 +65,7 @@ Der Seminarplan ist **vorläufig**.
 
 **Für Informatiker_innen:**
 
-* Protokoll (bitte zeitnah einen Termin ausmachen!) (10%)
+* Sitzungsprotokoll (bitte zeitnah einen Termin ausmachen!) (10%)
 * Peer Review (10%)
 * "Poster"präsentation (20%)
 * schriftl. Ausarbeitung (60%)
@@ -89,7 +89,7 @@ Mögliche Referatsthemen:
 * Extropianismus / Singularitarianismus
 * Vertiefung TESCREAL-Komplex
 
-#### Hinweise zum "Sitzungsprotokoll" (für Informatiker_innen)
+#### Hinweise zum Sitzungsprotokoll (für Informatiker_innen)
 
 **Aufgabenstellung:** Sprecht mit Gregor eine Sitzung ab, für die ihr ein "Sitzungsprotokoll" anfertigt. Das Protokoll soll die wichtigsten Ergebnisse und Erkenntnisse der Sitzung festhalten (nicht den Verlauf) und dient als Ergänzung bzw. Erweiterung des Kursmaterials, sprich: Die "Protokolle" werden direkt in das Material übernommen und dienen als gemeinsame Ressource für alle zur Nachbereitung des Seminars. Entsprechend sollte das Protokoll so aufbereitet sein, dass ein Nicht-Anwesender Studierender sich anhand der Notizen im Nachhinein ein klares Bild davon machen kann, welche Inhalte in der entsprechenden Woche besprochen wurden. 
 
