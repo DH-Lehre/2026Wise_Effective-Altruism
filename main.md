@@ -48,7 +48,7 @@ Der Seminarplan ist **vorläufig**.
 | 03.11. | Klassischer Utilitarismus mit und nach Bentham und Mill |  |
 | 10.11. | Moderner Utilitarismus am Beispiel Peter Singers | Sandra |
 | 17.11. | EA und Quantifizierung | Christian |
-| 24.11. | **2. Kritik** aus der analytischen Philosophie |  |
+| 24.11. | **2. Kritik** aus der analytischen Philosophie | Liam |
 | 01.12. | Kritik aus der analytischen Philosophie cont'd |  |
 | 08.12. | Politisch-strukturelle Kritik |  |
 | 15.12. | EA und *longterminism* |  |
