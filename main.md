@@ -47,7 +47,7 @@ Der Seminarplan ist **vorläufig**.
 | 27.10. | **I. Grundlagen und Selbstverständnis von EA** |  |
 | 03.11. | Klassischer Utilitarismus mit und nach Bentham und Mill |  |
 | 10.11. | Moderner Utilitarismus am Beispiel Peter Singers | Sandra |
-| 17.11. | EA und Quantifizierung |  |
+| 17.11. | EA und Quantifizierung | Christian |
 | 24.11. | **2. Kritik** aus der analytischen Philosophie |  |
 | 01.12. | Kritik aus der analytischen Philosophie cont'd |  |
 | 08.12. | Politisch-strukturelle Kritik |  |
@@ -223,6 +223,7 @@ Bitte lest zur Vorbereitung auf die Sitzung:
 
 Bitte lest zur Vorbereitung auf die Sitzung: 
 
+* [GiveWell: Moral Weights](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/moral-weights)
 * [Nguyen, C. Thi: Value Capture (2024). In: Journal of Ethics and Social Philosophy, Vol. 27, No. 3. (PDF steht im OLAT-Materialordner zur Verfügung)](https://doi.org/10.26556/jesp.v27i3.3048)
 
 ## Sitzung am 24.11.
