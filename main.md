@@ -226,6 +226,36 @@ Bitte lest zur Vorbereitung auf die Sitzung:
 * [GiveWell: Moral Weights](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/moral-weights)
 * [Nguyen, C. Thi: Value Capture (2024). In: Journal of Ethics and Social Philosophy, Vol. 27, No. 3. (PDF steht im OLAT-Materialordner zur Verfügung)](https://doi.org/10.26556/jesp.v27i3.3048)
 
+### Eine Geschichte von fünf Wohltätigkeitsorganisationen
+
+[GiveWell betrachtet](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/cost-effectiveness-models) eine Organisation dann als förderungswürdig, wenn sie mehr als 0,018 Einheiten *moral weight* pro Dollar "produziert". Im Folgenden werden fünf Wohltätigkeitsorganisationen kurz vorgestellt. 
+
+Fragen: 
+
+* Welche der Organisationen sollte nach den Metriken von GiveWell gefördert werden, welche nicht? Woran liegt es jeweils?
+* Stimmt ihr den konkreten Bewertungen zu? Wo widersprechen sie eurer Intuition oder eurem ethischen Empfinden?
+* Wie müssten die Metriken von GiveWell angepasst/erweitert/ergänzt werden, um eure Bedenken abzubilden?
+
+---
+
+**KindMal** (Jahresbudget: 500.000 Dollar) verteilt in ländlichen Distrikten Ostafrikas vorbeugende Malariamedikamente an Kleinkinder. Geschätzt verhinderte Todesfälle: 100, alle im Alter von etwa einem Jahr.
+
+**SonnenscheinSchnack** (Jahresbudget 250.000 Dollar) schult Laienberater:innen, die in ländlichen Gegenden eine Kurzzeittherapie bei Depression anbieten. Bei den 5.000 Teilnehmenden klingt in 40% der Fälle eine mittelschwere Depression ab, jeweils etwa ein Jahr früher als ohne Behandlung (Schweregrad der mittelschweren Depression: 0,4). Außerdem steigt in einer Begleitbefragung die Lebenszufriedenheit der Teilnehmenden im Mittel um 1,5 Punkte auf einer Skala von 0 bis 10, über etwa zwei Jahre. 
+
+**Silberstern** (Jahresbudget 300.000 Dollar) impft in einer armen Region ältere Menschen gegen schwere Lungenentzündungen. Geschätzte Anzahl verhinderter Todesfälle: 150, alle über 80 Jahre. 
+
+**HappyHuhn** (Jahresbudget 200.000 Dollar) überzeugt Betriebe, 100.000 Legehennen aus Käfig- in Bodenhaltung umzustellen und begleitet das ein Jahr lang. Geschätzt verhinderte Todesfälle bei Menschen: keine. Auswirkung auf Einkommen oder Gesundheit: keine messbaren.
+
+**Saatgut Max** (Jahresbudget: 900.000 Dollar) bietet Kleinbauernhaushalten ertragsstarkes Saatgut und Beratung. Erreicht werden 30.000 Menschen. Der Konsumzuwachs ist pro Person insgesamt 0,6 Einheiten wert.
+
+---
+
+Bonus:
+
+**HauNichtDrauf** (Jahresbudget 150.000 Dollar) vermittelt nach einem Landkonflikt über Süßwasserzugang zwischen zwei Nachbarländern. Eine Studie hält eine erneute gewaltsame Eskalation für möglich, bei der etwa 1.000 Menschen im Alter von 20 bis 50 Jahren sterben könnten. Wie wahrscheinlich es ist, dass die Vermittlung das verhindert, schätzen Fachleute sehr unterschiedlich ein. Diejenigen, die sich zu einer Prozentzahleinschätzung hinreißen lassen, nennen Werte zwischen 5 % und 60 %. Vergleichbare Programme gibt es nicht, der Ansatz wurde noch nie erprobt.
+
+**Selbstbestimmt** (Jahresbudget 400.000 Dollar) bietet 8.000 Frauen in ländlichen Gebieten Zugang zu Verhütungsmitteln und Beratung. Geschätzt verhinderte Todesfälle: 4 Frauen im Zusammenhang mit Schwangerschaft und Geburt, 20 Neugeborene. Außerdem gibt es etwa 1.200 weniger Geburten als ohne das Programm. In einer Befragung sagen 70 % der Teilnehmerinnen, sie könnten ihre Familienplanung nun selbst bestimmen.
+
 ## Sitzung am 24.11.
 
 Bitte lest zur Vorbereitung auf diese und nächste (!) Sitzung: 
